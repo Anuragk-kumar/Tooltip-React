@@ -73,5 +73,5 @@ Feel free to modify and expand upon this project as needed.
 
 ## Demo
 
-Insert a GIF or link to the demo
+https://tooltip-react-app.netlify.app/
 
